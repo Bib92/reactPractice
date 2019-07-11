@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+.white-text{
+   color:white;
+  }
+.red-text {
+color: red;
+}
+
+     .logInBody {
+background-color: blueviolet;
+} 
+.borderReg {
+  border-style: solid;
+  border-color: blue;
+}
+.divReg {
+    border: 2px solid blue;
+    background-color: lightgreen;
+    padding-top: 2px;
+    padding-right: 300px;
+    padding-bottom: 2px;
+    padding-left: 300px;
+  }
